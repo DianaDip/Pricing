@@ -1,0 +1,312 @@
+.pricing__container {
+   width: 1280px;
+    height: 968px;
+    flex-shrink: 0;
+}
+
+ .pricing__head {
+    margin-bottom: 80px;
+ }
+
+.pricing__text {
+    color: #162E3C;
+    text-align: center;
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 77px;
+    flex-shrink: 13;
+    margin:128px 681px 0px 681px ;
+
+    border-radius: 64px;
+    background: #DDF0A7;
+}
+
+.pricing__title {
+    width: 319px;
+    margin:auto;
+    padding: 15px 561px 0px 561px;
+
+    color: #162E3C;
+    text-align: center;
+    font-family: Fraunces;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 57.6px;
+}
+
+.pricing__subtitle {
+    width: 500px;
+    margin:auto;
+    padding: 24px 470px 0px 470px ;
+
+    color: #49616E;
+    text-align: center;
+    font-family: Space Grotesk;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.cards {
+    display: flex;
+    width: 1280px;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 32px;
+    margin: 0px 80px;
+}
+
+.card {
+    width: 405px;
+    height: 668px;
+    flex-shrink: 0;
+    border-radius: 32px;
+    width: 341.328px;
+    height: 552px;
+    background: #162E3C;
+    padding: 32px 31.67px 84px 32px;
+}
+
+.card_yellow {
+    height: 732px;
+    background: #DDF0A7;
+    height: 616px;
+} 
+
+.card__icon {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    margin: 0px 0px 32px 293px;
+}
+
+.card__title {
+    width: 104px;
+    color: #FFF;
+    font-family: Fraunces;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 0px 237.33px 7px 0px;
+    white-space: nowrap;
+}
+
+.card__price {
+    width: 98px;
+    color: #FFF;
+    font-family: Fraunces;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 67.2px;
+    margin: 0px 0px 8px 0px;
+}
+
+.card__price span {
+    width: 66px;
+    color: #FFF;
+    font-family: Fraunces;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 41.6px;
+    margin: 0px 177.33px 11px 0px;
+}
+
+.card__price2 {
+    width: 109px;
+
+    color: #FFF;
+    font-family: Space Grotesk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0px 232.33px 32px 0px;
+}
+
+.line {
+    border-bottom: 1px dashed #223E4E;;
+    width: 341px;
+    flex-shrink: 0;
+    margin: 0px 0px 32px 0px;
+}
+
+.includes__title {
+    width: 69px;
+    color: #FFF;
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0px 272.33px 16px 0px;
+}
+
+.includes__list {
+    padding: 8px 32px;
+    list-style: url(img/Frame.png);
+    margin: 0px 0px 0px 0px;
+}
+
+.includes__list li {
+    width: 189px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+    padding-left: 16px;
+    white-space: nowrap;
+}
+
+.button {
+    color: #162E3C;
+    text-align: center;
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    width: 341px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 64px;
+    border: 2px solid #DDF0A7;
+    background: #DDF0A7;
+    margin: 112px 0px 0px 0px;
+} 
+
+.button1 {
+    color: #162E3C;
+    text-align: center;
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    width: 341px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 64px;
+    border: 2px solid #DDF0A7;
+    background: #DDF0A7;
+    margin: 32px 0px 0px 0px;
+}
+
+.card_yellow card__icon {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    margin: 0px 0px 32px 293.67px;
+}
+
+.card_yellow card__title {
+    width: 138px;
+    color: #162E3C;
+    font-family: Fraunces;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 0px 203.66px 7px 0px;
+}
+
+.card_yellow card__price {
+    width: 107px;
+    color: #162E3C;
+    font-family: Fraunces;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 67.2px;
+    margin: 0px 0px 0px 0px;
+}
+
+.card_yellow card__price span {
+    width: 66px;
+
+    color: #162E3C;
+    font-family: Fraunces;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 41.6px;
+}
+
+.card_yellow card__price2 {
+    width: 112px;
+    margin: 0px 232.33px 32px 0px;
+
+    color: #162E3C;
+    font-family: Space Grotesk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.line1 {
+    border-bottom: 1px solid #D1E39E;
+    width: 341px;
+    flex-shrink: 0;
+    margin: 0px 0px 32px 0px;
+}
+
+.includes__title1 {
+    width: 69px;
+    margin: 0px 272.33px 16px 0px;
+
+    color: #162E3C;
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.includes__list1 {
+    padding: 8px 32px;
+    list-style: url(img/Frame2.png);
+    margin: 0px 0px 150px 0px;
+}
+
+.includes__list1 li {
+    width: 189px;
+    flex-shrink: 0;
+    color: #162E3C;
+    font-family: Space Grotesk;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 8px;
+    padding-left: 16px;
+    white-space: nowrap;
+}
+
+.button2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Space Grotesk;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    width: 341px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 64px;
+    border: 2px solid #162E3C;
+    background: #162E3C;
+    margin: 0px 0 0px 0;
+} 
